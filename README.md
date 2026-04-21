@@ -1,7 +1,20 @@
-# Weekend Launch Page
+<div align="center">
+  <h1>Weekend Launch Page</h1>
+  <p><strong>Personal one-page offer site for fast, mobile-first launch builds.</strong></p>
+  
+  [![Live Demo](https://img.shields.io/badge/Live_Demo-Website-3dd68c?style=for-the-badge)](https://omsingh02.github.io/weekend-launch-page/)
+  [![GitHub Pages](https://img.shields.io/badge/Deployed_on-GitHub_Pages-black?style=for-the-badge&logo=github)](https://omsingh02.github.io/weekend-launch-page/)
 
-Personal one-page offer site for Om Singh's **Weekend Launch Page** service — fast, clean, mobile-first launch sites for student-led projects and small teams.
+  <br>
+  
+  <a href="https://omsingh02.github.io/weekend-launch-page/">
+    <img src="https://api.microlink.io/?url=https://omsingh02.github.io/weekend-launch-page/&screenshot=true&meta=false&embed=screenshot.url" alt="Preview of Weekend Launch Page" width="800">
+  </a>
+</div>
 
+<br>
+
+<br>
 ## What this is
 
 A focused service page offering one-page launch site builds for:
